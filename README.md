@@ -5,6 +5,7 @@ This system can help user to manage employee, remove/add employee, review employ
 There are 2 types of employee in this system are full time and contractor. Based on their employee type, the user will input percent for full time employee, bonus for contractor.   
 Full time employee salary will be salary + (salary *percent/100)     
 Contractor salary will be salary + bonus     
+Contractor bonus will be a certain amount while full time employee will be a percentage of their salary. 
 ![image](https://user-images.githubusercontent.com/99052999/154470248-bc26cca6-47fe-4ac2-8727-521da10fd205.png)
 # 2. User will be able to reveal all employees's information in the system 
 ![image](https://user-images.githubusercontent.com/99052999/154470325-a5c8786e-b7a3-49d0-8efa-d912d105fc0f.png)
