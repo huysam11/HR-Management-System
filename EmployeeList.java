@@ -41,7 +41,7 @@ public class EmployeeList {
 	}
 	public void find() {
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter employee's ID ");
+		System.out.print("Enter employee's ID: ");
 		String ID = sc.nextLine();
 		Boolean check = false;
 		for (Employees n : list) {
