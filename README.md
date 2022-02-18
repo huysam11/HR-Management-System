@@ -1,5 +1,6 @@
 # Employee-Management-System
-This system can help user to manage employee, remove/add employee, review employees's information, calculate employees's salaries based on their employee type and save more time for payroll process 
+This system can help user to manage employee, remove/add employee, review employees's information, calculate employees's salaries based on their employee type and save more time for payroll process   
+I used JAVA IDE to develop this system and libraries that i used are  java.util.ArrayList and java.util.Scanner   
 # This system has 4 features :
 # 1. This command allows user to add employees's information into system  (Id , name, salary , employeeType) 
 There are 2 types of employee in this system are full time and contractor. Based on their employee type, the user will input percent for full time employee, bonus for contractor.   
